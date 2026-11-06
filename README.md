@@ -16,7 +16,6 @@ lịch sử AI trong slide Ngày 1. Cuối bài, bạn so sánh 4 cách trên c�
 ```text
 Machine Learning  →  Deep Learning  →  Embedding           →  LLM
 người chọn feature   mạng tự học        mượn encoder           không train,
-máy học trọng số     đặc trưng          pre-train + gắn "đầu"  chỉ cần prompt
                                         phân loại lên trên
 ```
 
